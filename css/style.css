@@ -59,11 +59,13 @@ header {
 
 .sobreMim {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    height: 45rem;
+    height: auto;
     max-width: 90%;
     margin: 50px auto;
     padding: 20px;
+    gap: 20px;
 }
 
 .imgSobremim {
