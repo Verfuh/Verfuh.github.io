@@ -273,12 +273,11 @@ footer {
 }
 
 .footer-content h4{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
     color: #ff3232;
-
+    font-size: 36px;
 }
 
-
+.footer-content p{
+    color: #ffffff;
+    font-size: 20px;
+}
